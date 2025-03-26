@@ -16,3 +16,5 @@ A **Hostel Mangement System** developed according to the requirements of hostels
   - `Mangement` - [Notion](https://www.notion.so/)
   - `Design` - [AdobeXD](https://www.adobe.com/in/products/xd.html)
   - `Code-Editor` - [Vscode](https://code.visualstudio.com/)
+
+  ###Amit
