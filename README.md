@@ -18,4 +18,4 @@ A **Hostel Mangement System** developed according to the requirements of hostels
   - `Code-Editor` - [Vscode](https://code.visualstudio.com/)
 
   ###Amit
-  ##Ani
+  ##An
